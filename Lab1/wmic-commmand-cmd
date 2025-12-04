@@ -24,7 +24,7 @@ wmic process where name="Calculator.exe" call terminate
 wmic product
 wmic product get name,version
 
-vol c;
+vol c:
 
 winver
 
